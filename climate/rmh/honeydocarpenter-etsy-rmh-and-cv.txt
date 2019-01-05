@@ -1,0 +1,55 @@
+Dear mr. Darwin Arnold,
+
+I live in Netherlands, were most houses are gas heated with a central heating systems. The government policv is currently to replace all gas heating installations with heat-pump systems, extracting heat from ground water or some utility heat network (industrial waste heat etc). But heat pumps only work in very well insulated homes (energy label A or better), and many houses built before '85 are not well insulated enough and can't be insulated properly due to condensation problems etc. 
+
+So, I was looking into this system of this rocket stove mass heater, which is an amazing wood stove, and was thinking about ways in how you could use this system in an adapted way to function as the primary heat source in conjunction with the normal Central Heating system. This would alter the functioning of the rocket mass heater a bit, since its primary function would not be to provide direct heat, but only preheat the two water circuits (the open circuit for hot tap water and the closed circuit for the radiators), so it would need an enclosing which is in insulated, a warm water storage vessel around the heat riser, and this warm water reservoir would contain a hot water storage barrel for the closed radiator water circuit, and would need a pressure vent and expansion barrel (and perhaps other safety measures like moderating the heat from the stove like blocking the fuel intake, releasing hot water and taking in cold water to maintain water level in the warm water reservoir) and a tube for the hot tap water circling around the heat riser and enclosed in a secondary barrel around the primary barrel of the heat riser for heat exchange (the tubes are molded into this secondary barrel for optimum heat exchange and for preventing the tubes from contacting the surrounding barrel of hot radiator water storage barrel). The radiator hot water reservoir is then outside this secondary barrel.
+When the stove is not fueled, the Central heating system functions as normally, just that the two inlets make some extra loop through the rocket mass heater system. With the rocket mass heat water on, both your radiator circuit and your tap water circuit run through the rocket mass heater for exchanging heat, and the Central heating system (which measures the incoming water temperature) then reduces its own heat emission due to the water inlets already be on temperature.
+
+Additionally some mixing system might be needed for preventing the water to become too hot, and/or for controlling the final temperature of your tap water.
+
+Another adaptation would be that the air inlet definately needs to take in air from outside, since we want the installation to be able to operate in a closed utilityu room.
+Also we want to be able to operate the system semi-automalatically, so it would need a controlled feeder system which controls the amount of fuel consumption. This would need some logic circuit that measures the heat in the hot water storage barrel, and if below a minimum threshold, would fuel up the system, and when above some maximum threshold would lower or stop fueling the system.
+And some emergency control to stop the air inflow to extinghuish the stove. 
+
+If possible the outlet of the rocket mass stove should be able to use the same chimney (which in many cases contain a heat exchanger to optimize the efficiency and filters) as the gas fueled central heating system.
+
+In addition to an automatic and controlled pellet feeding system, it should have an inlet for pieces of wood in manual operation (in case you run out of pellets, and want to fire up the stove).
+
+The small closed room in which this stove should be contained (if possible right next to the central heating system) should only have moderate temperature, so it could be also safely used as storage space for wood fuel.
+
+If I was a home owner and could built and install such a system myself, I would probably take the effort to do it, as gas prices have surged, but since I'm a renter, I can not alter or replace the existing heat system, so I'm dependent on what the housing corporation installs into my house. And they would not permit self built systems, and normal wood stoves are not possible because the chimneys have been abandoned.
+
+So, the only option is, if some well tested commercial version of a rocket mass stove, adapted for using in a hybrid system, would become commercially avaiablye and supported in my country, and hoping that these systems take off. But I do think, if such systems were developped worldwide, there is definately a market for it, and it also contributes to CO2 reductions as you can use wood from a sustainable, CO2 neutral source, and you don't emit toxic or pollutant gases, only some CO2 and water vapor. And on top of that, it would be a far cheaper solution as heat pump systems, since you then need to replace your complete central heating system, use floor heating systems, and need to run tubes underground for extracting heat from the environment, which is very costy. With the system I have in mind, the installation costs are minimal (it can be built for perhaps a 1000 euro or more) and you don't need to replace existing installations. Although it doesn't bring down the gas consumption to zero, it would significantly reduce gas usage.
+
+I'm not good in making technical drawings, so I leave the description for now in only a verbal form, if I've time and the right tools, I can send some sketch of how the system would look like.
+
+In summary, here is what adaptations would be needed for this hybrid system:
+
+1. Airinlet from outside. (only) 
+2. Automatic feeder for pellets, with a control circuit to regulate the amount of pellet consumption.
+3. No loop for the stove outlet, but connected to an already existing outlet / chimney.
+4. The primary barrel of the heat riser gets an enclosing barrel, in between which runs a circuit in a loop around the barrel for the hot tap water, connected to the tapwater inlet & outlet from the Central Heater.
+5. Around this secondary barrel we have a hot water reservoir for storing hot water for the radiator closed circuit loop. It has a pressure valve and pressure barrel with an emergency steam outlet, connected to the chimney, a temperature sensor connected to the logic circuit that controls amount of fuel, and some emergency circuit to disconnect the airinlet to extinguish the stove entirely.
+6. Optionally we would also want some way (other then reducing or stopping fuel inlet or reducing or stopping air inlet) to moderate the heat, and perhaps the simplets way for that is to release hot water from the vessel and at the same time taking in cold water to maintain water level. Also of course we need a tap to drain the hot water storage tank (but in many cases, since this tank is connected to the central heating radiator system, you could use the release valve on that system which is at the lowest point of the circuit).
+7. A control circuit for maintaining water level in the storage tank.
+8. A good level of insulation around the hot water storage tank.
+9. One door that gives access to the fuel inlets and fuel storage, both the (semi)automatic pellet inlet and the manual inlet for other wood. The door also closes off air coming into the system, since that would cause unwanted circulation of air, so the only air that comes in, comes from outside.
+10. A control board with the readings of the sensors (pressure, water level, water temperature).
+11. And lastly, some handy ash tray to get rid of the ash, and some easy way open up the system for maintanence, repair and cleaning.
+
+I think it is definately worth studying how such a system could be designed, if not so much for the american market, then surely for the european market, and most definately for the dutch market, since currently many people have to make decissions about wether or not to install (very expensive) heatpump systems, and if this kind of heat system would be available on the market within the next couple of years, many home owners and perhaps also social housing corporations, would prefer this hybrid system, if it would be commercially available and conforms to all safety standards regaring heating installations, etc.
+
+Greetings from Netherlands,
+
+Rob Heusdens
+
+Groningen
+
+PS. I enjoyed your videos, and will inform some people looking into this system for an affordable heat system.
+
+Q: Are you developing a commercial version of the (standard) rocket mass heater? If so, then developing an add-on system for turning 
+it into a hybrid system to use in conjunction with regular gas fueled Central heating systems might be worth looking into. 
+Another option would be to make it into a hot air blower that can be put on top of the heat riser, that can heat several rooms 
+with hot air. In some video you were already suggesting that.
+
+Keep up the good work!
