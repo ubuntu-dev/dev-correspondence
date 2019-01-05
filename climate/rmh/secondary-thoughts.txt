@@ -1,0 +1,44 @@
+Mr. Davin Arnold.
+
+Some secondary thoughts on my design ideas.
+
+Two points I am reconsidering.
+
+1. The design of the storage tank. 
+
+In my original design was around the heat riser barrel, which for heat exchange considerations 
+would be the optimal arrangement, but could otherwise overheat the water too easily, causing pressure problems. 
+So my secondary thought was to not put it around the heat riser barrel, but on top of it, so it has less surface contact for heat exchange. And would make the 
+design some more slender.
+This is something that needs to be judged based on experimentation.
+
+2. The design of pressure release / downgrading fuel injection
+
+Stopping or slowing down fuel injection would take some time to become effective and would not reduce the heat immediately.
+To avoid having to release steam or release hot water, there should perhaps be some other clever way to moderate or stop the heat inside
+the heat riser barrel in a more direct fashion. 
+The most direct way to do that would be to block the channel from the furnace to the heat riser, but this would cause another problem,
+as the furnace now doesn't have suction, and would cause the fire to run not sideways but upwards, which we don't want.
+So it should then haven an emergency secondary chimney channel, but this channel now also contains unburnt gasses, which we can not
+vent out using our standard chimney. 
+But it could be testes if one can make it work like a water pipe (smoking tobacco though a tube, where tobacco smoke is first funneled 
+into a water bottle, to filter out particles and to moderate the heat) system.
+So that outlet pipe of unburnt exhaust (like a normal wood stove) should go into a closed barrel half filled with water, and the air gets 
+sucked out by connecting it to the standard chimney.
+it should be tested if that is a safe way of doing this. Otherwise there should be placed some heat resisting filter in this outlet pipe
+that filters out most unburnt particles. Since this would not moderate the temperature of the gasses, or only moderately, it would 
+not alter the suction of the chimney.
+
+This is of course non-standard operation, and should not normally take place, other then in case of overheating and over-pressure in 
+the water storage tank, and would only last a short time. When the pressure is below the threshold value again, normal operations 
+can be resumed.
+This water tank that would cool down the outlet of the rocket stove and filters out the unburnt particles (like a water pipe), 
+or if that doesn't work, the filter system, should of course be easy to maintain by draining the water and residue from it, clean, and refill to appropriate level (manual procedure).
+
+Maybe this is overdesigning, as a preesure release valve from the hot water storage tank should probably be enough to deal with the 
+over-pressure problem, and would probably be adquate enough to prevent the system having to vent out steam, and dealing with venting
+out hot steam is easier as having to vent out hot partly unburned gases from the stove, so maybe this system is not necessary.
+
+
+
+
